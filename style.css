@@ -1,0 +1,146 @@
+
+.main{
+  background-color: rgb(222, 222, 222);
+  height: 50px;
+
+
+}
+.boundary{
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+.about{
+  margin-left: 200px;
+  margin-top: 15px;
+  font-size: 20px;
+ 
+  color: grey;
+  
+  
+}
+.cc{
+  margin-right: 200px;
+  margin-top: 15px;
+  font-size: 20px;
+ 
+  color: grey;
+}
+.logo{
+  margin-left: 250px;
+
+  margin-top: 15px;
+  font-size: 20px;
+ 
+  color: grey;
+
+}
+.join{
+  margin-top: 15px;
+  font-size: 20px;
+ 
+  color: grey;
+
+}
+.sponsor{
+  margin-top: 15px;
+  font-size: 20px;
+ 
+  color: grey;
+
+}
+.news{
+  margin-top: 15px;
+  font-size: 20px;
+ 
+  color: grey;
+}
+.hello{
+  color: blue;
+  font-size: 30px;
+}
+.creative{
+  color: blue;
+  font-size: 40px;
+  font-weight: bold;
+}
+.main2{
+  position: relative;
+  top:130px;
+  left:90px;
+  height: 500px;
+  
+}
+.x2{
+  position: relative;
+  top:40px;
+  font-size: 40px;
+  color: gray;
+  font-weight: bolder;
+
+}
+.kor{
+  position:relative ;
+  top:40px
+}
+.mainxx{
+  height: 500px;
+  background-color: gray;
+}
+.prg{
+  display: flex;
+  justify-content: center;
+}
+.programs{
+  font-size: 40px;
+  color: white;
+}
+.bglec{
+  background-color: green;
+  height: 150px;
+  width: 150px;
+
+  
+}
+.lec{
+  position: relative;
+  left:40px;
+  top:20px;
+  font-size: 20px;
+  color: blue;
+  font-weight: bold;
+}
+.pratx{
+  display: inline;
+  position: relative;
+  top:30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.box2{
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  
+}
+.lec2{
+  position: relative;
+  top:10px;
+  font-size: 25px;
+  font-weight: bold;
+  left:50px
+
+}
+.parax2{
+  margin-left: 20px;
+  margin-right: 20px;
+  position: relative;
+  top:20px
+}
+.boxes{
+  display: flex;
+  justify-content: center;
+  
+
+}
